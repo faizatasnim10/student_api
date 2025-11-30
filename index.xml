@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Faiza Tasnim Portfolio</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Faiza Tasnim Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Laravel Student API &amp; Docker</title>
+      <link>http://localhost:1313/posts/presentation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/presentation/</guid>
+      <description>&lt;h1 id=&#34;laravel-student-api--docker&#34;&gt;Laravel Student API &amp;amp; Docker&lt;/h1&gt;&#xA;&lt;h3 id=&#34;faiza-tasnim&#34;&gt;Faiza Tasnim&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Course:&lt;/strong&gt; Software Quality&#xA;&lt;strong&gt;Project:&lt;/strong&gt; Student Management System&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;what-is-a-rest-api&#34;&gt;What is a REST API?&lt;/h1&gt;&#xA;&lt;p&gt;A &lt;strong&gt;REST API&lt;/strong&gt; allows different computer systems to communicate using HTTP methods such as &lt;strong&gt;GET&lt;/strong&gt;, &lt;strong&gt;POST&lt;/strong&gt;, &lt;strong&gt;PUT&lt;/strong&gt;, and &lt;strong&gt;DELETE&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;key-concepts&#34;&gt;Key Concepts&lt;/h2&gt;&#xA;&lt;h3 id=&#34;client-and-server&#34;&gt;Client and Server&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Client sends request (browser, frontend app).&lt;/li&gt;&#xA;&lt;li&gt;Server processes request and returns JSON response.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;stateless-communication&#34;&gt;Stateless Communication&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Each request contains all necessary info.&lt;/li&gt;&#xA;&lt;li&gt;Server does not store session info.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;resources&#34;&gt;Resources&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Everything is a &lt;strong&gt;resource&lt;/strong&gt; (user, student, etc.).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;my-project-student-management-system&#34;&gt;My Project: Student Management System&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Demonstrates CRUD operations for students.&lt;/li&gt;&#xA;&lt;li&gt;Uses Laravel REST API with &lt;strong&gt;Sanctum Bearer Token&lt;/strong&gt; authentication.&lt;/li&gt;&#xA;&lt;li&gt;Tested with Postman, cURL.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;api-security-bearer-token&#34;&gt;API Security: Bearer Token&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Include token in request header:&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Authorization: Bearer &amp;lt;your_token_here&amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;&#xA;&lt;h2 id=&#34;laravel-apis-overview&#34;&gt;Laravel APIs Overview&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Admin and Student CRUD endpoints&lt;/li&gt;&#xA;&lt;li&gt;Token-protected routes&lt;/li&gt;&#xA;&lt;li&gt;Example endpoints and responses in the following slides&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;example-get-all-students&#34;&gt;Example: Get All Students&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Endpoint:&lt;/strong&gt; GET &lt;code&gt;/api/home&lt;/code&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
